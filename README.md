@@ -1,4 +1,4 @@
-# 🧨 Embrace The Chaos | Welcome To My Page: Where Sanity Ends And Logs Begin
+# 🧨 Embrace The Chaos | Sanity Ends Here
 
 > _“This was working before” - The Autobiography_
 > - DevOps survivor | Sysadmin with root and regrets
