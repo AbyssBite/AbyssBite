@@ -28,13 +28,17 @@ I don't just wear hats ;; I wear tinfoil and paranoia like armor:
 - SSH into servers and stare at them until they magically fix themselves
 - Say "just one more config tweak" before nuking the entire system
 
-## Tools I Abuse Daily
+## 🛠️ Tools I Abuse Daily
 
-**Languages**: `Python`, `Bash`
-**OS**: `Linux (Debian + a sprinkle of tears)`, `Windows (for when self-torture just isn’t painful enough)`
-**DevOps**: `Docker`, `Git`, `Nginx`, `Systemd`
-**CyberSec**: `nmap`, `Wireshark`, `Metasploit`, `Burp`, `Fail2ban (ironically)`
-**Mistakes**: `sudo rm -rf /`, `git push --force`, `docker system prune -a`
+| Category     | Tools                                                                 |
+|--------------|------------------------------------------------------------------------|
+| **Languages** | Python, Bash                                                          |
+| **OS**        | Linux (Debian + a sprinkle of tears), Windows (for when self-torture isn’t painful enough) |
+| **DevOps**    | Docker, Git, Nginx, Systemd                                           |
+| **CyberSec**  | nmap, Wireshark, Metasploit, Burp, Fail2ban (ironically)             |
+| **Mistakes**  | `sudo rm -rf /`, `git push --force`, `docker system prune -a`        |
+
+
 
 ---
 
@@ -62,9 +66,13 @@ I don't just wear hats ;; I wear tinfoil and paranoia like armor:
 
 ## 🧃 Contact
 
-> Wanna collab? ~~(Wasn't expecting that tbh)~~
-> Great. Fork something, open a PR, and prepare for chaos.
-> If you are emailing me, include logs and bribes.
+**Wanna collab?**  
+_(Wasn't expecting that tbh)_  
+Great. Fork something, open a PR, and prepare for chaos.  
+
+If you're emailing me, **include logs, screenshots, and bribes**.  
+Bonus points if your subject line includes `URGENT: EVERYTHING'S ON FIRE`.
+
 
 ---
 
